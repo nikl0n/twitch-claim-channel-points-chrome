@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Twitch Channel Points Auto-Claimer",
   "version": "1.0",
-  "description": "Automatically claims channel points on Twitch.tv",
+  "description": "An extension that automatically claims channel points on Twitch.tv, ensuring you never miss out on bonuses!",
   "permissions": ["activeTab", "https://twitch.tv/*"],
   "content_scripts": [
     {
